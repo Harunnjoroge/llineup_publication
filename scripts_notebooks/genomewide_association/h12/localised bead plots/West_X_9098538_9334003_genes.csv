@@ -1,0 +1,7 @@
+seqid	start	end	gene.id	gene.name	attributes
+X	9099308	9108706	AGAP000514	AGAP000514	ID=AGAP000514;description=Protein MAK16 homolog [Source:UniProtKB/TrEMBL%3BAcc:Q7PRY6];ebi_biotype=protein_coding
+X	9111112	9111880	AGAP000515	AGAP000515	ID=AGAP000515;description=enhancer of rudimentary protein;ebi_biotype=protein_coding
+X	9114570	9115737	AGAP000516	AGAP000516	ID=AGAP000516;description=enhancer of rudimentary protein;ebi_biotype=protein_coding
+X	9215207	9282218	AGAP000519	AGAP000519	ID=AGAP000519;description=diacylglycerol kinase (ATP dependent);ebi_biotype=protein_coding
+X	9290786	9297176	AGAP000520	AGAP000520	ID=AGAP000520;description=unspecified product;ebi_biotype=protein_coding
+X	9297187	9311691	AGAP000521	AGAP000521	ID=AGAP000521;description=unspecified product;ebi_biotype=protein_coding

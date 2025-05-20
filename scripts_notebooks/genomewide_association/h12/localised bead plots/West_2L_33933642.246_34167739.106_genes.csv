@@ -1,0 +1,39 @@
+seqid	start	end	gene.id	gene.name	attributes
+2L	33939186	33946087	AGAP006532	AGAP006532	ID=AGAP006532;description=UDPglucose 6-dehydrogenase;ebi_biotype=protein_coding
+2L	33948755	33950031	AGAP006533	AGAP006533	ID=AGAP006533;description=surfeit locus 1 family protein;ebi_biotype=protein_coding
+2L	33950206	33963119	AGAP006534	AGAP006534	ID=AGAP006534;description=unspecified product;ebi_biotype=protein_coding
+2L	33963337	33969843	AGAP006535	Oseg1	ID=AGAP006535;Name=Oseg1;description=outer segment 1;ebi_biotype=protein_coding
+2L	33986817	34016554	AGAP006536	AGAP006536	ID=AGAP006536;description=Arrowhead;ebi_biotype=protein_coding
+2L	34022246	34024571	AGAP006537	AGAP006537	ID=AGAP006537;description=unspecified product;ebi_biotype=protein_coding
+2L	34049560	34076342	AGAP006540	AGAP006540	ID=AGAP006540;description=LIM homeobox protein;ebi_biotype=protein_coding
+2L	34064109	34065067	AGAP006539	AGAP006539	ID=AGAP006539;description=eupolytin;ebi_biotype=protein_coding
+2L	34076528	34082538	AGAP006541	AGAP006541	ID=AGAP006541;description=Transcriptional regulators containing a dna-binding hth domain and an aminotransferase domain transcription regulator protein;ebi_biotype=protein_coding
+2L	34077592	34079351	AGAP006542	AGAP006542	ID=AGAP006542;description=cactin;ebi_biotype=protein_coding
+2L	34087430	34093806	AGAP006543	AGAP006543	ID=AGAP006543;description=unspecified product;ebi_biotype=protein_coding
+2L	34093935	34096997	AGAP028608	AGAP028608	ID=AGAP028608;description=unspecified product;ebi_biotype=protein_coding
+2L	34100051	34106245	AGAP006546	AGAP006546	ID=AGAP006546;description=unspecified product;ebi_biotype=protein_coding
+2L	34107955	34110522	AGAP006547	AGAP006547	ID=AGAP006547;description=unspecified product;ebi_biotype=protein_coding
+2L	34111266	34113290	AGAP006548	AGAP006548	ID=AGAP006548;description=glycine cleavage system H protein;ebi_biotype=protein_coding
+2L	34113357	34114263	AGAP006549	AGAP006549	ID=AGAP006549;description=unspecified product;ebi_biotype=protein_coding
+2L	34115122	34115466	AGAP006550	AGAP006550	ID=AGAP006550;description=unspecified product;ebi_biotype=protein_coding
+2L	34117678	34118222	AGAP006551	AGAP006551	ID=AGAP006551;description=unspecified product;ebi_biotype=protein_coding
+2L	34120726	34121072	AGAP006552	AGAP006552	ID=AGAP006552;description=unspecified product;ebi_biotype=protein_coding
+2L	34122195	34122738	AGAP006553	AGAP006553	ID=AGAP006553;description=unspecified product;ebi_biotype=protein_coding
+2L	34124499	34124839	AGAP006554	AGAP006554	ID=AGAP006554;description=unspecified product;ebi_biotype=protein_coding
+2L	34125951	34126410	AGAP006555	AGAP006555	ID=AGAP006555;description=unspecified product;ebi_biotype=protein_coding
+2L	34128579	34128909	AGAP006556	AGAP006556	ID=AGAP006556;description=unspecified product;ebi_biotype=protein_coding
+2L	34130955	34131285	AGAP006557	AGAP006557	ID=AGAP006557;description=unspecified product;ebi_biotype=protein_coding
+2L	34133346	34133677	AGAP006558	AGAP006558	ID=AGAP006558;description=unspecified product;ebi_biotype=protein_coding
+2L	34137005	34137326	AGAP006559	AGAP006559	ID=AGAP006559;description=unspecified product;ebi_biotype=protein_coding
+2L	34141798	34142119	AGAP006560	AGAP006560	ID=AGAP006560;description=unspecified product;ebi_biotype=protein_coding
+2L	34143241	34143582	AGAP006561	AGAP006561	ID=AGAP006561;description=unspecified product;ebi_biotype=protein_coding
+2L	34143856	34144173	AGAP006562	AGAP006562	ID=AGAP006562;description=unspecified product;ebi_biotype=protein_coding
+2L	34145658	34145988	AGAP006563	AGAP006563	ID=AGAP006563;description=unspecified product;ebi_biotype=protein_coding
+2L	34146268	34146585	AGAP006564	AGAP006564	ID=AGAP006564;description=unspecified product;ebi_biotype=protein_coding
+2L	34148066	34148396	AGAP028429	AGAP028429	ID=AGAP028429;description=unspecified product;ebi_biotype=protein_coding
+2L	34148655	34148972	AGAP006566	AGAP006566	ID=AGAP006566;description=unspecified product;ebi_biotype=protein_coding
+2L	34150050	34150674	AGAP028428	AGAP028428	ID=AGAP028428;description=unspecified product;ebi_biotype=protein_coding
+2L	34150793	34151264	AGAP029822	AGAP029822	ID=AGAP029822;description=unspecified product;ebi_biotype=protein_coding
+2L	34151632	34152039	AGAP029823	AGAP029823	ID=AGAP029823;description=unspecified product;ebi_biotype=protein_coding
+2L	34152345	34152618	AGAP006568	AGAP006568	ID=AGAP006568;description=unspecified product;ebi_biotype=protein_coding
+2L	34158499	34168017	AGAP006569	AGAP006569	ID=AGAP006569;description=acetyl-CoA synthetase;ebi_biotype=protein_coding

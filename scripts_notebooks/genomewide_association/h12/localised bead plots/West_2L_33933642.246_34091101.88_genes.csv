@@ -1,0 +1,12 @@
+seqid	start	end	gene.id	gene.name	attributes
+2L	33939186	33946087	AGAP006532	AGAP006532	ID=AGAP006532;description=UDPglucose 6-dehydrogenase;ebi_biotype=protein_coding
+2L	33948755	33950031	AGAP006533	AGAP006533	ID=AGAP006533;description=surfeit locus 1 family protein;ebi_biotype=protein_coding
+2L	33950206	33963119	AGAP006534	AGAP006534	ID=AGAP006534;description=unspecified product;ebi_biotype=protein_coding
+2L	33963337	33969843	AGAP006535	Oseg1	ID=AGAP006535;Name=Oseg1;description=outer segment 1;ebi_biotype=protein_coding
+2L	33986817	34016554	AGAP006536	AGAP006536	ID=AGAP006536;description=Arrowhead;ebi_biotype=protein_coding
+2L	34022246	34024571	AGAP006537	AGAP006537	ID=AGAP006537;description=unspecified product;ebi_biotype=protein_coding
+2L	34049560	34076342	AGAP006540	AGAP006540	ID=AGAP006540;description=LIM homeobox protein;ebi_biotype=protein_coding
+2L	34064109	34065067	AGAP006539	AGAP006539	ID=AGAP006539;description=eupolytin;ebi_biotype=protein_coding
+2L	34076528	34082538	AGAP006541	AGAP006541	ID=AGAP006541;description=Transcriptional regulators containing a dna-binding hth domain and an aminotransferase domain transcription regulator protein;ebi_biotype=protein_coding
+2L	34077592	34079351	AGAP006542	AGAP006542	ID=AGAP006542;description=cactin;ebi_biotype=protein_coding
+2L	34087430	34093806	AGAP006543	AGAP006543	ID=AGAP006543;description=unspecified product;ebi_biotype=protein_coding
