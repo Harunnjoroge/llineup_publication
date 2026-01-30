@@ -1,0 +1,12 @@
+Data/fst/location_randomisations_pop.csv filter=lfs diff=lfs merge=lfs -text
+Data/fst/post_randomised_Fst.rds filter=lfs diff=lfs merge=lfs -text
+Data/fst/pre_randomised_Fst.rds filter=lfs diff=lfs merge=lfs -text
+Data/cre_enrichment/results/SNP_CRE_mapping.tsv filter=lfs diff=lfs merge=lfs -text
+scripts_notebooks/genomewide_association/cre_enrichment/snp_positions.bed filter=lfs diff=lfs merge=lfs -text
+scripts_notebooks/relatedness[[:space:]]analysis/relatedness/llineup.rel.tsv.gz filter=lfs diff=lfs merge=lfs -text
+*.bed filter=lfs diff=lfs merge=lfs -text
+*.rds filter=lfs diff=lfs merge=lfs -text
+*.tsv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.tsv.gz filter=lfs diff=lfs merge=lfs -text
+*.csv.gz filter=lfs diff=lfs merge=lfs -text
