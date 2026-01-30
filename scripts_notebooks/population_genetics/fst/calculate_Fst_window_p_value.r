@@ -1,6 +1,6 @@
 #Visualise Fst data
 
-#You will need to have run the fst_analysis.R  script to generate the data used here or find the data in the Data/fst/ folder
+#You will need to have run the fst_analysis.R  script to generate the data used here 
 
 library(data.table)
 library(stringr)

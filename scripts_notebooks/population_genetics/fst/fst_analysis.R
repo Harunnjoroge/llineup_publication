@@ -1,7 +1,7 @@
 # Fst analysis between east vs west  populations in Uganda before and after net distribution
 
 # In this script, we load genotype data that is downloaded from Malariagen using the [./fst/extract whole genome genotype.ipynb ]
-# We load a csv file containing permutated control_phase data the output of the [./fst/llineup_random_permuation.r] find this in the Data/fst/ folder
+# We load a csv file containing permutated control_phase data the output of the [./fst/llineup_random_permuation.r] 
 # We then calculate Fst between east and west Uganda populations before and after net distribution using the [./fst/fst_analysis.r] script
 # Fst between the different cohorts are calculated and saved as rds. These are visualised using the [./fst/calculate_Fst_window_p_value.r]
 
